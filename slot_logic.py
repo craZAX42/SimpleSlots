@@ -6,6 +6,14 @@
 # To run and test in VSCode, use the "Run Python File in Dedicated Terminal" button.
 # This allows you to input values and hit "Enter" to send them back to the code.
 
+# Kavika's TODO
+# [] print multiple slots at a time
+# [] think of more menu options
+
+# Jordan's TODO
+# [] print_menu()
+# [] earnings functionality - print current earnings, reset earnings, maybe a way to lose earnings? (Cost of spinning)
+
 import sys
 import time
 import random
